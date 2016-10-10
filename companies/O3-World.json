@@ -53,46 +53,39 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "UI / UX Designer",
-      "alternateName": "",
-      "url": "http://o3world.com/careers/ui-ux-designer-html/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-28"
+      "title": "UI / UX DESIGNER"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Full Stack Javascript Developer",
-      "alternateName": "",
-      "url": "http://o3world.com/careers/full-stack-javascript-developer/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-28"
+      "title": "FULL STACK DEVELOPER"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Front-End Developer",
-      "alternateName": "",
-      "url": "http://o3world.com/careers/front-end-developer-html/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-28"
+      "title": "FRONT-END DEVELOPER"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
-      "title": "IT Operations / Support Administrator",
-      "alternateName": "",
-      "url": "http://o3world.com/careers/itops-admin/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-28"
+      "title": "UX STRATEGIST"
     }
   ],
   "updated": "2016-04-29"

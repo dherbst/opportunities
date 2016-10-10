@@ -21,68 +21,44 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "National Digital Sales Executive",
-      "alternateName": "Business Development",
-      "url": "http://apsweb.philly.com/jobs/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-28"
+      "title": "Outside Local Sales Representatives",
+      "url": "http://apsweb.philly.com/jobs/#full_1"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Graphic Designer",
-      "alternateName": "Design, Visual",
-      "url": "http://apsweb.philly.com/jobs/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-28"
+      "title": "Product Manager",
+      "url": "http://apsweb.philly.com/jobs/#full_1"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
       "title": "Digital Sales Specialist",
-      "alternateName": "Business Development",
-      "url": "http://apsweb.philly.com/jobs/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
+      "url": "http://apsweb.philly.com/jobs/#full_1"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Interactive Graphic Designer",
-      "alternateName": "Design, Visual",
-      "url": "http://apsweb.philly.com/jobs/",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "part time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Marketing Specialist",
-      "alternateName": "Marketing",
-      "url": "http://apsweb.philly.com/jobs/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Web Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://apsweb.philly.com/jobs/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
+      "title": "Digital Customer Service Representative - Part Time",
+      "url": "http://apsweb.philly.com/jobs/#full_1"
     }
   ],
   "updated": "2016-04-28"

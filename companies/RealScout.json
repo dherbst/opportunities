@@ -33,13 +33,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Software Engineer",
-      "alternateName": "Full Stack",
-      "url": "https://jobs.lever.co/realscout/e4f4096b-963a-4b24-9e51-008034e60bdb",
       "jobLocation": "philadelphia",
-      "remote": true,
-      "datePosted": "2016-05-01"
+      "remote": false,
+      "title": "Software Engineer, Data Infrastructure",
+      "url": "https://jobs.lever.co/realscout"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Software Engineer, Full-Stack",
+      "url": "https://jobs.lever.co/realscout"
     }
   ]
 }

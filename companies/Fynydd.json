@@ -27,6 +27,26 @@
       "jobLocation": "kingofprussia",
       "remote": false,
       "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "kingofprussia",
+      "remote": false,
+      "title": "Freelance Umbraco CMS Developer",
+      "url": "https://fynydd.com/careers/jp2002/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "kingofprussia",
+      "remote": false,
+      "title": "Freelance WordPress Multisite Developer",
+      "url": "https://fynydd.com/careers/jp2001/"
     }
   ],
   "updated": "2016-04-30"

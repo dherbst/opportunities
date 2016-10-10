@@ -20,14 +20,23 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Digital Art Director",
-      "alternateName": "Designer, Visual",
-      "url": "http://www.a-g.com/careers/position-details?id=job_20160318152050_TJIE4IWWVPGD4R2Z",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Office Coordinator",
+      "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160817011624_Q2JFX6JPQC6ZRXRJ"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Supervisor, Public Relations",
+      "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160815204054_WCLVAOFFE7P6BQ99"
     }
   ],
-  "updated": "2016-06-17"
+  "updated": "2016-08-15"
 }

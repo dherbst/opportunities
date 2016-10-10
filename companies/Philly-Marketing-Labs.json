@@ -52,6 +52,16 @@
       "jobLocation": "wayne",
       "remote": false,
       "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "wayne",
+      "remote": false,
+      "title": "Senior Paid Search Manager",
+      "url": "http://www.phillymarketinglabs.com/about/join-our-team/paid-search-manager/"
     }
   ],
   "updated": "2016-04-28"

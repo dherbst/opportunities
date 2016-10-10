@@ -19,6 +19,17 @@
       }
     }
   },
-  "positions": [],
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "WordPress Plugin Developer",
+      "url": "https://www.yikesinc.com/about-yikes-inc/join-team/"
+    }
+  ],
   "updated": "2016-04-21"
 }

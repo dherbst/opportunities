@@ -23,24 +23,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Data Scientist Intern",
-      "alternateName": "Intern",
-      "url": "http://www.leadnomics.com/careers/",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-30"
+      "title": "Chief Revenue Officer",
+      "url": "http://www.leadnomics.com/careers/#"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Leadnomics Interns",
-      "alternateName": "Intern",
-      "url": "http://www.leadnomics.com/careers/",
+      "datePosted": "2016-07-31",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Media Buyer",
+      "url": "http://www.leadnomics.com/careers/#"
     }
   ],
   "updated": "2016-04-30"

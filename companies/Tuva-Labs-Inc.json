@@ -45,13 +45,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "part-time",
-      "title": "UI/UX Designer",
-      "alternateName": "Designer, User Experience",
-      "url": "https://tuvalabs.com/jobs/ui_ux_designer/",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-25"
+      "title": "UI/Visual Designer",
+      "url": "https://tuvalabs.com/jobs/"
     }
   ],
   "updated": "2016-04-25"

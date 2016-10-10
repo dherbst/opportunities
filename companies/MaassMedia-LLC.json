@@ -45,46 +45,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Marketing Specialist",
-      "alternateName": "Marketing",
-      "url": "http://www.maassmedia.com/about-our-careers.php?id=6",
+      "datePosted": "2016-07-26",
+      "employmentType": "intern",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-05"
+      "title": "Digital Analyst Intern",
+      "url": "http://www.maassmedia.com/about-our-careers.php?id=10"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Senior Digital Analyst - Social Media",
-      "alternateName": "Data Analyst",
-      "url": "http://www.maassmedia.com/about-our-careers.php?id=7",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-05"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Measurement & Reporting Analyst",
-      "alternateName": "Data Analyst",
-      "url": "http://www.maassmedia.com/about-our-careers.php?id=8",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-05"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "SENIOR DIGITAL ANALYST",
-      "alternateName": "Data Analyst",
-      "url": "http://www.maassmedia.com/about-our-careers.php?id=9",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-30"
+      "title": "Digital Analyst",
+      "url": "http://www.maassmedia.com/about-our-careers.php?id=11"
     }
   ],
   "updated": "2016-04-30"

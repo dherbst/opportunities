@@ -25,41 +25,8 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Backend Developer",
-      "alternateName": "Developer, Backend",
-      "url": "http://www.inspireenergy.com/join-our-team#powers",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Clean Power Sales Specialist",
       "alternateName": "Business Development",
-      "url": "http://www.inspireenergy.com/join-our-team#powers",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "part-time",
-      "title": "Clean Power Sales Specialist (Part-Time)",
-      "alternateName": "Business Development",
-      "url": "http://www.inspireenergy.com/join-our-team#powers",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Full Stack Developer",
-      "alternateName": "Developer, Full Stack",
       "url": "http://www.inspireenergy.com/join-our-team#powers",
       "jobLocation": "philadelphia",
       "remote": false,
@@ -90,13 +57,42 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Web Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://www.inspireenergy.com/join-our-team#powers",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Event Sales Specialist",
+      "url": "https://www.inspireenergy.com/join-our-team#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Field Sales Quality Analyst",
+      "url": "https://www.inspireenergy.com/join-our-team#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Member Experience Manager",
+      "url": "https://www.inspireenergy.com/join-our-team#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-31",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Business Development Manager",
+      "url": "https://www.helloinspire.com/join-our-team#"
     }
   ],
   "updated": "2016-04-30"

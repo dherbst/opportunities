@@ -34,46 +34,52 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Integration Developer",
-      "alternateName": "Developer, Backend",
-      "url": "http://www.halfpenny.com/integration-developer.html",
       "jobLocation": "blue bell",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "",
+      "url": "http://www.halfpenny.com/client-relationship-specialist.html"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Client Technical Support Tier 1 Analyst",
-      "alternateName": "Developer, Product Support",
-      "url": "http://www.halfpenny.com/client-technical-support.html",
       "jobLocation": "blue bell",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Senior Software Developer",
+      "url": "http://www.halfpenny.com/senior-software-developer.html"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Product Manager - Clinical Data Exchange",
-      "alternateName": "Project Manager",
-      "url": "http://www.halfpenny.com/product-manager.html",
       "jobLocation": "blue bell",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Design Specification Specialist",
+      "url": "http://www.halfpenny.com/design-specification-specialist.html"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Quality Assurance (QA) Analyst",
-      "alternateName": "Developer, QA",
-      "url": "http://www.halfpenny.com/quality-assurance-analyst.html",
       "jobLocation": "blue bell",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Project Coordinator",
+      "url": "http://www.halfpenny.com/project-coordinator.html"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "intern",
+      "jobLocation": "blue bell",
+      "remote": false,
+      "title": "Sales Internal Account Manager",
+      "url": "http://www.halfpenny.com/sales-internal-account-manager.html"
     }
   ],
   "updated": "2016-04-30"

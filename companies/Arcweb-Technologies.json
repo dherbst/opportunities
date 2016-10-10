@@ -42,17 +42,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Project Manager: Mobile and Web Applications",
-      "alternateName": "Project Manager",
-      "url": "http://arcweb.applytojob.com/apply/ytgHja/Software-Project-Manager",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-06-17"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Software Architect",
       "alternateName": "Developer, Backend",
       "url": "http://arcweb.applytojob.com/apply/nnnmLg/Software-Architect",

@@ -23,24 +23,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Content Specialist",
-      "alternateName": "Content Strategy",
-      "url": "http://agency-m.com/careers",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-05"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "freelance",
-      "title": "Freelance Interactive Developer",
-      "alternateName": "Developer, Frontend",
-      "url": "http://agency-m.com/careers",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-05"
+      "title": "Junior Interactive Developer",
+      "url": "http://agency-m.com/careers#pos-186"
     }
   ],
   "updated": "2016-04-30"

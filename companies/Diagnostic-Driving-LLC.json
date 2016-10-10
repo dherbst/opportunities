@@ -16,6 +16,17 @@
       }
     }
   },
-  "positions": [],
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Software Engineer",
+      "url": "https://docs.google.com/document/d/16H4E08Trub5uc1MlZ_rZptFb0llwGHVKmFuhR-hqa80/edit?usp=sharing"
+    }
+  ],
   "updated": "2016-04-30"
 }

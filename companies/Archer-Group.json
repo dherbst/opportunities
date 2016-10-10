@@ -35,57 +35,35 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "FRONT END DEVELOPER",
-      "alternateName": "Developer, Frontend",
-      "url": "http://www.archer-group.com/careers.html",
-      "jobLocation": "wilmington",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "APPLICATION DEVELOPER",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://www.archer-group.com/careers.html",
-      "jobLocation": "wilmington",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "SENIOR APPLICATION DEVELOPER",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://www.archer-group.com/careers.html",
-      "jobLocation": "wilmington",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "SENIOR SITECORE DEVELOPER",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://www.archer-group.com/careers.html",
-      "jobLocation": "wilmington",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "MID-LEVEL UX DESIGNER",
       "alternateName": "Designer, User Experience",
       "url": "http://www.archer-group.com/careers.html",
       "jobLocation": "wilmington",
       "remote": false,
       "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "wilmington",
+      "remote": false,
+      "title": "SENIOR INTERACTIVE DESIGNER",
+      "url": "https://archergroup.bamboohr.com/jobs/view.php?id=39"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "wilmington",
+      "remote": false,
+      "title": "INTERACTIVE ART DIRECTOR",
+      "url": "https://archergroup.bamboohr.com/jobs/view.php?id=40"
     }
   ],
-  "updated": "2016-06-17"
+  "updated": "2016-08-15"
 }

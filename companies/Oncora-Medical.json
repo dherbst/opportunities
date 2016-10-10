@@ -24,46 +24,46 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
       "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
       "title": "Data Engineer",
-      "alternateName": "Developer, Backend",
-      "url": "http://oncoramedical.com/careers#op-96042-data-engineer",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-29"
+      "url": "https://oncoramedical.com/careers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
       "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
       "title": "Cloud Ops Engineer",
-      "alternateName": "DevOps",
-      "url": "http://oncoramedical.com/careers#op-96045-cloud-ops-engineer",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-29"
+      "url": "https://oncoramedical.com/careers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
       "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
       "title": "Data Scientist",
-      "alternateName": "Data Scientist",
-      "url": "http://oncoramedical.com/careers#op-96043-data-scientist",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-29"
+      "url": "https://oncoramedical.com/careers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
       "employmentType": "full-time",
-      "title": "UX and Data Visualization Developer",
-      "alternateName": "Developer, Frontend",
-      "url": "http://oncoramedical.com/careers#op-96046-ux-and-data-visualization-developer",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-29"
+      "title": "Visualization Developer",
+      "url": "https://oncoramedical.com/careers/"
     }
   ],
   "updated": "2016-04-29"

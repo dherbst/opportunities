@@ -27,61 +27,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Customer Solutions Specialist",
-      "alternateName": "Business Development",
-      "url": "http://www.aweber.jobs/apply/BaNldT/Customer-Solutions-Specialist",
-      "jobLocation": "chalfont",
-      "remote": false,
-      "datePosted": "2016-06-17"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Customer Solutions Specialist",
-      "alternateName": "Business Development",
-      "url": "http://www.aweber.jobs/apply/g22NQy/Customer-Solutions-Specialist",
-      "jobLocation": "chalfont",
-      "remote": false,
-      "datePosted": "2016-06-17"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "UI Designer",
-      "alternateName": "Developer, Frontend",
-      "url": "http://www.aweber.jobs/apply/zFOUbg/UI-Designer",
-      "jobLocation": "chalfont",
-      "remote": false,
-      "datePosted": "2016-06-17"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Web Designer",
-      "alternateName": "Developer, Frontend",
-      "url": "http://www.aweber.jobs/apply/Mu5XZT/Web-Designer",
-      "jobLocation": "chalfont",
-      "remote": false,
-      "datePosted": "2016-06-17"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Back End Software Engineer",
-      "alternateName": "Developer, Backend",
-      "url": "http://www.aweber.jobs/apply/IlRUFd/Back-End-Software-Engineer",
-      "jobLocation": "chalfont",
-      "remote": false,
-      "datePosted": "2016-06-17"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Front End Software Engineer",
       "alternateName": "Developer, Frontend",
       "url": "http://www.aweber.jobs/apply/MsLWLP/Front-End-Software-Engineer",
@@ -114,35 +59,73 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Technical Operations Manager",
-      "alternateName": "DevOps",
-      "url": "http://www.aweber.jobs/apply/w67e9x/Technical-Operations-Manager",
       "jobLocation": "chalfont",
       "remote": false,
-      "datePosted": "2016-06-17"
+      "title": "Back-End Software Engineer",
+      "url": "https://boards.greenhouse.io/aweber/jobs/251849"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Web Development Manager",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://www.aweber.jobs/apply/DBeEva/Web-Development-Manager",
       "jobLocation": "chalfont",
       "remote": false,
-      "datePosted": "2016-06-17"
+      "title": "Senior DevOps Engineer",
+      "url": "https://boards.greenhouse.io/aweber/jobs/264284"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Technical Product Manager - Public API",
-      "alternateName": "Project Manager",
-      "url": "http://www.aweber.jobs/apply/AeG1OL/Technical-Product-Manager-Public-API",
       "jobLocation": "chalfont",
       "remote": false,
-      "datePosted": "2016-06-17"
+      "title": "Senior Full Stack Software Engineer",
+      "url": "https://boards.greenhouse.io/aweber/jobs/251885"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "chalfont",
+      "remote": false,
+      "title": "Senior Operations Engineer",
+      "url": "https://boards.greenhouse.io/aweber/jobs/257155"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "chalfont",
+      "remote": false,
+      "title": "Technical Operations - Engineering Team Lead",
+      "url": "https://boards.greenhouse.io/aweber/jobs/264790"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "chalfont",
+      "remote": false,
+      "title": "Director of Business Development",
+      "url": "https://boards.greenhouse.io/aweber/jobs/248631"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "chalfont",
+      "remote": false,
+      "title": "Data Engineer",
+      "url": "https://boards.greenhouse.io/aweber/jobs/264797"
     }
   ],
   "updated": "2016-06-17"

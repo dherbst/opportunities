@@ -22,35 +22,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "DEVELOPER",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://easternstandard.com/careers",
-      "jobLocation": "jenkintown",
+      "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "DRUPAL FRONT END WEB DEVELOPER",
+      "url": "http://easternstandard.com/pages/careers"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "ASSOCIATE ART DIRECTOR",
-      "alternateName": "Designer, Visual",
-      "url": "http://easternstandard.com/careers",
-      "jobLocation": "jenkintown",
+      "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "SENIOR INTERACTIVE DESIGNER",
-      "alternateName": "Designer, User Experience",
-      "url": "http://easternstandard.com/careers",
-      "jobLocation": "jenkintown",
-      "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "DRUPAL FULL STACK DEVELOPER",
+      "url": "http://easternstandard.com/pages/careers"
     }
   ],
   "updated": "2016-04-30"

@@ -20,24 +20,35 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
-      "title": "Senior Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://ecityinteractive.com/us/careers/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Director, Web Development",
+      "url": "http://ecityinteractive.com/us/careers/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
-      "title": "PHP/.NET Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://ecityinteractive.com/us/careers/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-30"
+      "title": "PHP/.NET Developer",
+      "url": "http://ecityinteractive.com/us/careers/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Account/Project Manager",
+      "url": "http://ecityinteractive.com/us/careers/"
     }
   ],
   "updated": "2016-04-30"
