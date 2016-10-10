@@ -23,68 +23,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Business Development Manager",
-      "alternateName": "Business Development",
-      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=170305",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Associate Digital Media Buyer",
+      "url": "https://boards.greenhouse.io/delphicdigital/jobs/249584"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-31",
       "employmentType": "full-time",
-      "title": "Account Director",
-      "alternateName": "Business Development",
-      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=180377",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-30"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Director, Content Strategy",
-      "alternateName": "Content Strategy",
-      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=200611",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-30"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Digital Production Internship",
-      "alternateName": "Intern",
-      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=192419",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-30"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "IT / Help Desk Intern ",
-      "alternateName": "Intern",
-      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=189349",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-30"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Sitecore Web Developer",
-      "alternateName": "Developer, Backend",
-      "url": "http://www.delphicdigital.com/about/careers/open-positions?gh_jid=111708",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Join the Delphic Talent Pool",
+      "url": "https://boards.greenhouse.io/delphicdigital/jobs/170319"
     }
   ],
   "updated": "2016-04-30"

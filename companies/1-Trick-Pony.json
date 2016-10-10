@@ -1,51 +1,54 @@
 {
   "company": "1 Trick Pony",
   "type": [
-    "agency"
+    "product"
   ],
   "url": "http://1trickpony.com/jobs/",
   "webSiteUrl": "http://1trickpony.com/",
-  "technologies": [
-    "Wordpress",
-    "Drupal",
-    "Expression Engine",
-    "JQuery",
-    "TweenMax",
-    "velocity.js"
-  ],
+  "technologies": [],
   "locations": {
-    "hammonton": {
+    "wyndmoor": {
       "@type": "Place",
-      "address": "251 Bellevue Ave, Hammonton, NJ 08037",
+      "address": "1007 E Abington Ave, Wyndmoor, PA 19038",
       "geo": {
-        "latitude": 39.6371142269,
-        "longitude": -74.8023355257
-      },
-      "telephone": "609-704-2660"
+        "latitude": 40.0839338571,
+        "longitude": -75.191686898
+      }
     }
   },
   "positions": [
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-01",
       "employmentType": "full-time",
-      "title": "FRONT-END DEVELOPER",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://1trickpony.com/jobs/",
       "jobLocation": "hammonton",
       "remote": false,
-      "datePosted": "2016-03-12"
+      "title": "BILINGUAL SOCIAL MEDIA STRATEGIST",
+      "url": "http://1trickpony.com/jobs/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-01",
       "employmentType": "full-time",
-      "title": "SR. COPYWRITER / CONCEPT LEAD",
-      "alternateName": "Content Strategy",
-      "url": "http://1trickpony.com/jobs/",
       "jobLocation": "hammonton",
       "remote": false,
-      "datePosted": "2016-03-12"
+      "title": "GRAPHIC DESIGNER",
+      "url": "http://1trickpony.com/jobs/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-01",
+      "employmentType": "full-time",
+      "jobLocation": "hammonton",
+      "remote": false,
+      "title": "SR. COPYWRITER / CONCEPT LEAD",
+      "url": "http://1trickpony.com/jobs/"
     }
   ],
   "updated": "2016-06-17"

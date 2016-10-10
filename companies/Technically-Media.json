@@ -19,18 +19,6 @@
       }
     }
   },
-  "positions": [
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Operations Manager",
-      "alternateName": "HR",
-      "url": "http://technical.ly/job/technically-media-hr-finance-manager/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-26"
-    }
-  ],
+  "positions": [],
   "updated": "2016-04-26"
 }
