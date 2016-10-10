@@ -64,6 +64,16 @@
       "jobLocation": "conshohocken",
       "remote": false,
       "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "title": "Project Coordinator",
+      "url": "http://www.zupplerworks.com/careers.html#project_coordinator"
     }
   ],
   "updated": "2016-04-21"

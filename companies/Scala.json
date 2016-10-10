@@ -19,6 +19,27 @@
       }
     }
   },
-  "positions": [],
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "Malvern",
+      "remote": false,
+      "title": "Project Manager",
+      "url": "http://join.scala.com/projectmgr/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "Malvern",
+      "remote": false,
+      "title": "Sales Order Assistant",
+      "url": "http://join.scala.com/sales-order-assistant/"
+    }
+  ],
   "updated": "2016-04-26"
 }

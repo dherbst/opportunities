@@ -23,24 +23,24 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
-      "title": "Data Architect",
-      "alternateName": "Developer, DBA",
-      "url": "http://www.roundcorner.com/data-architect/",
       "jobLocation": "ardmore",
       "remote": false,
-      "datePosted": "2016-04-28"
+      "title": "Customer Success Manager/CRM Strategy Consultant (PA, NY or CA)",
+      "url": "http://roundcorner.com/careers/#collapseTwo"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
-      "title": "Data Migration Specialist",
-      "alternateName": "Developer, DBA",
-      "url": "http://www.roundcorner.com/data-migration-specialist/",
       "jobLocation": "ardmore",
       "remote": false,
-      "datePosted": "2016-04-28"
+      "title": "Data Architect (PA, NY or CA)",
+      "url": "http://roundcorner.com/careers/#collapseThree"
     }
   ],
   "updated": "2016-04-28"

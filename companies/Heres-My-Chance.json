@@ -23,28 +23,6 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Accounting & Finance Intern – Summer 2016",
-      "alternateName": "Intern",
-      "url": "",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-30"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Business Development Intern – Summer 2016",
-      "alternateName": "Intern",
-      "url": "https://www.smartrecruiters.com/HeresMyChance/88444248-business-development-intern-summer-16",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-30"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
       "employmentType": "full-time",
       "title": "Copywriter",
       "alternateName": "Content Strategy",
@@ -56,57 +34,62 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "intern",
-      "title": "Design Intern – Summer 2016",
-      "alternateName": "Intern",
-      "url": "https://www.smartrecruiters.com/HeresMyChance/89859279-creative-design-intern-summer-16",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Business Development Intern – Fall 2016",
+      "url": "http://smrtr.io/7VaWDg"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "intern",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Creative Intern – Fall 2016",
+      "url": "http://smrtr.io/HNSM1A"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Freelance Designer - Illustration, Web, etc.",
-      "alternateName": "Designer, Visual",
-      "url": "https://www.smartrecruiters.com/HeresMyChance/77947425-full-time-design-",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Freelance Designer",
+      "url": "http://smrtr.co/1sAUxya"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "intern",
-      "title": "Marketing & Events Intern – Summer 2016",
-      "alternateName": "Intern",
-      "url": "https://www.smartrecruiters.com/HeresMyChance/88062487-social-media-and-marketing-intern",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Marketing & Events Intern – Fall 2016",
+      "url": "http://smrtr.io/FDydjw"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "intern",
-      "title": "Project Management Intern – Summer 2016",
-      "alternateName": "Intern",
-      "url": "https://www.smartrecruiters.com/HeresMyChance/88371323-project-management-intern-summer-16",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Project Management Intern – Fall 2016",
+      "url": "http://smrtr.io/Hv-P6g"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "intern",
-      "title": "Research Intern – Summer 2016",
-      "alternateName": "Intern",
-      "url": "https://www.smartrecruiters.com/HeresMyChance/88446321-research-intern-summer-16",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Research Intern – Fall 2016",
+      "url": "http://smrtr.io/hnY5-w"
     }
   ],
   "updated": "2016-04-30"

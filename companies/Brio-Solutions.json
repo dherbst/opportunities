@@ -22,13 +22,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Software Development Intern (Part-time)",
-      "alternateName": "Intern",
-      "url": "http://philadelphia.craigslist.org/web/5525035000.html",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
       "jobLocation": "fort washington",
       "remote": false,
-      "datePosted": "2016-05-01"
+      "title": ".NET SOFTWARE DEVELOPER",
+      "url": "https://www.ziprecruiter.com/job/ddb0e371"
     }
   ],
   "updated": "2016-05-01"

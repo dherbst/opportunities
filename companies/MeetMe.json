@@ -35,39 +35,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Big Data Engineer",
-      "alternateName": "Developer, DBA",
-      "url": "http://www.meetme.com/apps/careers#careers-about",
-      "jobLocation": "new hope",
-      "remote": false,
-      "datePosted": "2016-04-05"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Data Analyst",
-      "alternateName": "Data Analyst",
-      "url": "http://www.meetme.com/apps/careers#careers-about",
-      "jobLocation": "new hope",
-      "remote": false,
-      "datePosted": "2016-04-05"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "DBA",
-      "alternateName": "Developer, DBA",
-      "url": "http://www.meetme.com/apps/careers#careers-about",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-05"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Software Architect, API",
       "alternateName": "Developer, Backend",
       "url": "http://www.meetme.com/apps/careers#careers-about",
@@ -123,28 +90,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "QA Automation Engineer",
-      "alternateName": "Developer, QA",
-      "url": "http://www.meetme.com/apps/careers#careers-about",
-      "jobLocation": "new hope",
-      "remote": false,
-      "datePosted": "2016-04-05"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "QA Automation Lead",
-      "alternateName": "Developer, QA",
-      "url": "http://www.meetme.com/apps/careers#careers-about",
-      "jobLocation": "new hope",
-      "remote": false,
-      "datePosted": "2016-04-05"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Product Manager",
       "alternateName": "Project Manager",
       "url": "http://www.meetme.com/apps/careers#careers-about",
@@ -162,6 +107,47 @@
       "jobLocation": "new hope",
       "remote": false,
       "datePosted": "2016-04-05"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "New Hope, PA, United States",
+      "remote": false,
+      "title": "QA Lead",
+      "url": "http://app.jobvite.com/#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "Philadelphia or New Hope, PA, United States",
+      "remote": false,
+      "title": "Data Pipeline Engineer",
+      "url": "http://app.jobvite.com/#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "New Hope, PA, United States",
+      "remote": false,
+      "title": "Mobile Software Architect",
+      "url": "http://app.jobvite.com/#"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "New Hope, PA, United States",
+      "remote": false,
+      "title": "Advertising Designer",
+      "url": "http://app.jobvite.com/#"
     }
   ],
   "updated": "2016-04-30"

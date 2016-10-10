@@ -26,17 +26,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Senior Consultant",
-      "alternateName": "Project Manager",
-      "url": "http://www.wilsonlegalsol.com/careers_SC.html",
-      "jobLocation": "newtown square",
-      "remote": true,
-      "datePosted": "2016-04-21"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": ".Net Developer",
       "alternateName": "Developer, Full Stack",
       "url": "http://www.wilsonlegalsol.com/careers_ND.html",
@@ -76,6 +65,16 @@
       "jobLocation": "newtown square",
       "remote": false,
       "datePosted": "2016-04-21"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "newtown square",
+      "remote": false,
+      "title": "Application Developer",
+      "url": "http://www.wilsonlegalsol.com/about/careers/application-developer"
     }
   ],
   "updated": "2016-04-21"

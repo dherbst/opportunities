@@ -41,28 +41,6 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-04-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Production Data Scientist",
-      "alternateName": "Data Scientist",
-      "url": "http://nerds.picwell.com/jobs/prod_data_scientist/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Data Analyst",
-      "alternateName": "Data Analyst",
-      "url": "http://nerds.picwell.com/jobs/data_analyst/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-28"
     }
   ],
   "updated": "2016-04-28"

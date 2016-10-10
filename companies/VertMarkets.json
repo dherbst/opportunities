@@ -3,7 +3,7 @@
   "type": [
     "agency"
   ],
-  "url": "https://careers.stackoverflow.com/company/vertmarkets-inc#jobs",
+  "url": "http://www.vertmarkets.com/index.php/careers/open-positions",
   "webSiteUrl": "http://www.vertmarkets.com/",
   "technologies": [
     "mongodb",
@@ -29,13 +29,13 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
       "employmentType": "full-time",
-      "title": "Mid or Senior Full Stack Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://stackoverflow.com/jobs/107551/mid-or-senior-full-stack-developer-vertmarkets-inc",
       "jobLocation": "horsham",
       "remote": false,
-      "datePosted": "2016-02-26"
+      "title": "Mid-level .Net Developer",
+      "url": "http://vertmarketsinc.appone.com/Menu.asp?sst=newfull-white&CountryID=3&ERP=&fb=&LanguageID=2&ServerVar=&SearchText=&KeyType=all&CatID=3445&LocationID=0&x=31&y=22&FtrPlaceholder="
     }
   ],
   "updated": "2016-04-21"

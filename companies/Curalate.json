@@ -21,45 +21,12 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Client Success Manager",
-      "alternateName": "Business Development",
-      "url": "https://boards.greenhouse.io/curalate/jobs/181530#.VvdC8hIrJE4",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Graphic Designer",
-      "alternateName": "Designer, Visual",
-      "url": "https://boards.greenhouse.io/curalate/jobs/183844#.VvdC9xIrJE4",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Information Security Analyst",
       "alternateName": "Developer, Security",
       "url": "https://boards.greenhouse.io/curalate/jobs/184097#.VvdC-xIrJE4",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Recruiting Coordinator",
-      "alternateName": "HR",
-      "url": "https://boards.greenhouse.io/curalate/jobs/59386#.VyYM3xMrJE4",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-05-01"
     },
     {
       "@context": "http://schema.org",
@@ -98,64 +65,9 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Enterprise Account Executive",
-      "alternateName": "Business Development",
-      "url": "https://boards.greenhouse.io/curalate/jobs/188574#.VvdDCBIrJE4",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Enterprise Account Manager",
-      "alternateName": "Business Development",
-      "url": "https://boards.greenhouse.io/curalate/jobs/199549#.VyYNtxMrJE4",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-05-01"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Sales Development Representative",
-      "alternateName": "Business Development",
-      "url": "https://boards.greenhouse.io/curalate/jobs/186900#.VvdDCRIrJE4",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Client Support Engineer",
       "alternateName": "Developer, Full Stack",
       "url": "https://boards.greenhouse.io/curalate/jobs/138260#.VyYN7BMrJE4",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-05-01"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Data Scientist",
-      "alternateName": "Data Scientist",
-      "url": "https://boards.greenhouse.io/curalate/jobs/195971#.VyYN7RMrJE4",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-05-01"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "DevOps Engineer",
-      "alternateName": "DevOps",
-      "url": "https://boards.greenhouse.io/curalate/jobs/71955#.VyYN8BMrJE4",
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-05-01"
@@ -181,7 +93,59 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-05-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Client Success Manager",
+      "url": "https://boards.greenhouse.io/curalate/jobs/181530"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Product Marketing Manager",
+      "url": "https://boards.greenhouse.io/curalate/jobs/99221"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-31",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "HR Manager",
+      "url": "https://boards.greenhouse.io/curalate/jobs/272201"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Head of Product Marketing",
+      "url": "https://boards.greenhouse.io/curalate/jobs/273607"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Project Manager",
+      "url": "https://boards.greenhouse.io/curalate/jobs/167258"
     }
   ],
-  "updated": "2016-05-01"
+  "updated": "2016-08-15"
 }

@@ -23,13 +23,52 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Bilingual Sales & Partnership Executive",
-      "alternateName": "Business Development",
-      "url": "https://jobs.lever.co/zoomer/7b294e47-bb10-4048-a590-e95d06a00464",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-21"
+      "title": "Application Support Coordinator",
+      "url": "https://jobs.lever.co/zoomer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "DevOps Engineer",
+      "url": "https://jobs.lever.co/zoomer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Ruby on Rails Developer",
+      "url": "https://jobs.lever.co/zoomer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Software Engineer - Logistics Technology Team",
+      "url": "https://jobs.lever.co/zoomer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Software Engineer - Product",
+      "url": "https://jobs.lever.co/zoomer"
     }
   ],
   "updated": "2016-04-21"

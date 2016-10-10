@@ -22,68 +22,34 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Account Management/Planning",
-      "alternateName": "Business Development",
-      "url": "http://www.d4creative.com/careers#account_window",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Account Director",
+      "url": "http://www.d4creative.com/careers"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
       "employmentType": "full-time",
-      "title": "Copywriter",
-      "alternateName": "Content Strategist",
-      "url": "http://www.d4creative.com/careers#copywriter_window",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Art Director/Senior Designer",
+      "url": "http://www.d4creative.com/careers"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
       "employmentType": "full-time",
-      "title": "Designer",
-      "alternateName": "Designer, Visual",
-      "url": "http://www.d4creative.com/careers#designer_window",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Front-End Developer",
-      "alternateName": "Developer, Frontend",
-      "url": "http://www.d4creative.com/careers#front_window",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Project Manager",
-      "alternateName": "Project Manager",
-      "url": "http://www.d4creative.com/careers#project_window",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "PHP Developer",
-      "alternateName": "Developer, Backend",
-      "url": "http://www.d4creative.com/careers#software_window",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Director of SEO",
+      "url": "http://www.d4creative.com/careers"
     }
   ],
   "updated": "2016-04-30"

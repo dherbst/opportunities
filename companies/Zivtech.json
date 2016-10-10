@@ -42,13 +42,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "UX / UI Designer",
-      "alternateName": "Designer, User Experience",
-      "url": "https://www.zivtech.com/about/employment/ux-ui-designer",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-05-02"
+      "title": "Job Inquiry",
+      "url": "https://www.zivtech.com/job-inquiry"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Business Development Specialist",
+      "url": "https://www.zivtech.com/about/employment/business-development-specialist"
     }
   ],
   "updated": "2016-05-02"

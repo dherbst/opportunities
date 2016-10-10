@@ -54,6 +54,16 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-06-01"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "intern",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Engagement Manager - Intern",
+      "url": "https://angel.co/yellowdig/jobs/129713-engagement-manager-intern"
     }
   ],
   "updated": "2016-06-01"

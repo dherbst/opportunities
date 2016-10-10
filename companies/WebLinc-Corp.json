@@ -35,13 +35,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Sr. Visual Designer",
-      "alternateName": "Designer, Visual",
-      "url": "https://weblinc.workable.com/jobs/17629",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-25"
+      "title": "Senior User Experience Designer",
+      "url": "https://weblinc.workable.com/jobs/293308"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "QA Engineer",
+      "url": "https://weblinc.workable.com/jobs/187749"
     }
   ],
   "updated": "2016-04-21"

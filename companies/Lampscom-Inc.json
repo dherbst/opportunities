@@ -24,28 +24,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Client Relations",
-      "alternateName": "Business Development",
-      "url": "http://jobs.interactivecommercegroup.com/apply/6n0Rd7/Client-Relations",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-30"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "eCommerce Merchandiser",
-      "alternateName": "Marketing",
-      "url": "http://jobs.interactivecommercegroup.com/apply/X2maRI/ECommerce-Merchandiser",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": ""
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Full Stack Magento Developer",
       "alternateName": "Developer, Backend",
       "url": "http://jobs.interactivecommercegroup.com/apply/26wj0Q/Full-Stack-Magento-Developer",
@@ -56,13 +34,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Product Data Specialist",
-      "alternateName": "Marketing",
-      "url": "http://jobs.interactivecommercegroup.com/apply/MzsREP/Product-Data-Specialist",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "title": "Financial Analyst",
+      "url": "http://jobs.interactivecommercegroup.com/apply/VldbgC/Financial-Analyst"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Operations Specialist",
+      "url": "http://jobs.interactivecommercegroup.com/apply/ZaoMKh/Operations-Specialist"
     }
   ],
   "updated": "2016-04-30"

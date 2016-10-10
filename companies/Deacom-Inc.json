@@ -20,57 +20,62 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Business Development Representative",
-      "alternateName": "Business Development",
-      "url": "http://www.deacom.com/ViewPage/181/deacom-inc-business-development-representative",
-      "jobLocation": "wayne",
+      "jobLocation": "chesterbrook",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Business Development Representative (Multiple Openings)",
+      "url": "http://www.deacom.com/ViewPage/181/deacom-inc-business-development-representative"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "ERP Product Specialist",
-      "alternateName": "Business Development",
-      "url": "http://www.deacom.com/ViewPage/177/deacom-inc-erp-product-specialist",
-      "jobLocation": "wayne",
+      "jobLocation": "chesterbrook",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Customer Success Manager (One Opening)",
+      "url": "http://www.deacom.com/ViewPage/184/deacom-inc-customer-success-manager"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Project Manager",
-      "alternateName": "Project Manager",
-      "url": "http://www.deacom.com/ViewPage/180/deacom-inc-project-manager",
-      "jobLocation": "wayne",
+      "jobLocation": "chesterbrook",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Data Conversion Specialist (Multiple Openings)",
+      "url": "http://www.deacom.com/ViewPage/185/deacom-inc-data-conversion-specialist"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "C# / .NET Software Developer",
-      "alternateName": "Developer, Backend",
-      "url": "http://www.deacom.com/ViewPage/178/deacom-inc-software-developer",
-      "jobLocation": "philadelphia",
+      "jobLocation": "chesterbrook",
       "remote": false,
-      "datePosted": "2016-04-30"
+      "title": "Implementation Consultant (Multiple Openings)",
+      "url": "http://www.deacom.com/ViewPage/186/deacom-inc-implementation-consultant"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Technical Specialist",
-      "alternateName": "Developer, Backend",
-      "url": "http://www.deacom.com/ViewPage/179/deacom-inc-technical-specialist",
-      "jobLocation": "wayne",
+      "jobLocation": "chesterbrook",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "C# / .NET Software Engineer (Multiple Openings)",
+      "url": "http://www.deacom.com/ViewPage/178/deacom-inc-software-developer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "chesterbrook",
+      "remote": false,
+      "title": "Technical Specialist (Multiple Openings)",
+      "url": "http://www.deacom.com/ViewPage/179/deacom-inc-technical-specialist"
     }
   ],
   "updated": "2016-04-30"

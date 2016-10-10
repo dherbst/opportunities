@@ -57,17 +57,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Sales Development Representative",
-      "alternateName": "Business Development",
-      "url": "https://www.pipelinedeals.com/careers/sales_development_rep",
-      "jobLocation": "exton",
-      "remote": false,
-      "datePosted": "2016-04-28"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Customer Ambassador",
       "alternateName": "Business Development",
       "url": "https://www.pipelinedeals.com/careers/customer_ambassador",
@@ -85,6 +74,16 @@
       "jobLocation": "exton",
       "remote": false,
       "datePosted": "2016-04-28"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "exton",
+      "remote": false,
+      "title": "Sales Development Rep",
+      "url": "https://www.pipelinedeals.com/careers/sales_development_rep"
     }
   ],
   "updated": "2016-04-28"

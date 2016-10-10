@@ -23,101 +23,101 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
-      "title": "Lead Infrastructure Engineer",
-      "alternateName": "DevOps",
-      "url": "https://ipipeline-orspartners.icims.com/jobs/2693/lead-infrastructure-engineer/job",
-      "jobLocation": "exton",
+      "jobLocation": "Job Locations:  US-PA-Exton",
       "remote": false,
-      "datePosted": "4/1/2016"
+      "title": "Client Support Specialist",
+      "url": "https://ipipeline-orspartners.icims.com/jobs/3236/client-support-specialist/job?in_iframe=1"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
-      "title": "Sales Engineer",
-      "alternateName": "Business Development",
-      "url": "https://ipipeline-orspartners.icims.com/jobs/2677/sales-engineer/job",
-      "jobLocation": "exton",
+      "jobLocation": "Job Locations:  US-PA-Exton",
       "remote": false,
-      "datePosted": "3/25/2016"
+      "title": "Director of Client Services",
+      "url": "https://ipipeline-orspartners.icims.com/jobs/3235/director-of-client-services/job?in_iframe=1"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
-      "title": "Contract Renewal Specialist",
-      "alternateName": "Business Development",
-      "url": "https://ipipeline-orspartners.icims.com/jobs/2665/contract-renewal-specialist/job",
-      "jobLocation": "exton",
+      "jobLocation": "Job Locations:  US-PA-Exton",
       "remote": false,
-      "datePosted": "3/21/2016"
+      "title": "Tier 1 Support Analyst",
+      "url": "https://ipipeline-orspartners.icims.com/jobs/3182/tier-1-support-analyst/job?in_iframe=1"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
-      "title": "Accounts Receivable-Collections",
-      "alternateName": "Business Development",
-      "url": "https://ipipeline-orspartners.icims.com/jobs/2662/accounts-receivable-collections/job",
-      "jobLocation": "exton",
+      "jobLocation": "Job Locations:  US-PA-Exton",
       "remote": false,
-      "datePosted": "3/16/2016"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Application Support Engineer",
-      "alternateName": "Developer, Product Support",
-      "url": "https://ipipeline-orspartners.icims.com/jobs/2383/application-support-engineer/job",
-      "jobLocation": "exton",
-      "remote": false,
-      "datePosted": "2/5/2016"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Actuarial Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "https://ipipeline-orspartners.icims.com/jobs/2255/actuarial-developer/job",
-      "jobLocation": "exton",
-      "remote": false,
-      "datePosted": "2/5/2016"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Senior Project Manager",
-      "alternateName": "Project Manager",
-      "url": "https://ipipeline-orspartners.icims.com/jobs/2232/senior-project-manager/job",
-      "jobLocation": "exton",
-      "remote": false,
-      "datePosted": "2/5/2016"
+      "url": "https://ipipeline-orspartners.icims.com/jobs/3090/senior-project-manager/job?in_iframe=1"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
-      "title": "Software Sales Account Director",
-      "alternateName": "Business Development",
-      "url": "https://ipipeline-orspartners.icims.com/jobs/2035/software-sales-account-director/job",
-      "jobLocation": "exton",
+      "jobLocation": "Job Locations:  US-PA-Exton",
       "remote": false,
-      "datePosted": "3/15/2016"
+      "title": "Developer - Life Insurance",
+      "url": "https://ipipeline-orspartners.icims.com/jobs/2969/developer---life-insurance/job?in_iframe=1"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
+      "jobLocation": "Job Locations:  US-PA-Exton",
+      "remote": false,
+      "title": "Application Developer",
+      "url": "https://ipipeline-orspartners.icims.com/jobs/2914/application-developer/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "Job Locations:  US-PA-Exton",
+      "remote": false,
+      "title": "Actuarial Developer",
+      "url": "https://ipipeline-orspartners.icims.com/jobs/2875/actuarial-developer/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "Job Locations:  US-PA-Exton",
+      "remote": false,
       "title": "Senior Business Analyst",
-      "alternateName": "Project Manager",
-      "url": "https://ipipeline-orspartners.icims.com/jobs/2035/software-sales-account-director/job",
-      "jobLocation": "exton",
+      "url": "https://ipipeline-orspartners.icims.com/jobs/2763/senior-business-analyst/job?in_iframe=1"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "Job Locations:  US-PA-Exton",
       "remote": false,
-      "datePosted": "2/5/2016"
+      "title": "Software Sales Account Director",
+      "url": "https://ipipeline-orspartners.icims.com/jobs/2035/software-sales-account-director/job?in_iframe=1"
     }
   ],
   "updated": "2016-04-30"

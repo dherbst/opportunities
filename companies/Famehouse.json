@@ -23,46 +23,63 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "FRONT-END DEVELOPER",
-      "alternateName": "Developer, Frontend",
-      "url": "http://famehouse.net/job-listing-front-end-developer/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "DIGITAL MARKETER",
+      "url": "http://famehouse.net/job-listing-digital-marketer/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Merchandise Operations Director",
-      "alternateName": "Marketing",
-      "url": "http://famehouse.net/job-listing-merchandise-operations-director/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "SENIOR MANAGER, BRAND PARTNERSHIPS",
+      "url": "http://famehouse.net/job-listing-senior-manager-brand-partnerships/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "E-COMMERCE OPERATIONS ASSOCIATE",
-      "alternateName": "Marketing",
-      "url": "http://famehouse.net/category/job-listings/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-04-30"
+      "title": "EMAIL MARKETING MANAGER",
+      "url": "http://famehouse.net/job-listing-email-marketing-manager-2/"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "DATA ANALYST",
-      "alternateName": "Data Analyst",
-      "url": "http://famehouse.net/job-listing-data-analyst/",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "DIGITAL MARKETING ASSISTANT",
+      "url": "http://famehouse.net/job-listing-digital-marketing-assistant/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "CUSTOMER SERVICE ASSISTANT",
+      "url": "http://famehouse.net/job-listing-customer-service-assistant/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "BUSINESS DEVELOPMENT MANAGER",
+      "url": "http://famehouse.net/job-listing-business-development-manager-2/"
     }
   ],
   "updated": "2016-04-30"

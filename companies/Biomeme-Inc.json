@@ -27,24 +27,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "SENIOR ELECTRICAL ENGINEER",
-      "alternateName": "Developer, Backend",
-      "url": "http://www.biomeme.com/careers",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "SENIOR MOLECULAR BIOLOGIST",
+      "url": "http://www.biomeme.com/careers"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-08-01",
       "employmentType": "full-time",
-      "title": "SOFTWARE DEVELOPER",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://www.biomeme.com/careers",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-05-01"
+      "title": "SENIOR PRODUCT DEVELOPMENT ENGINEER",
+      "url": "http://www.biomeme.com/careers"
     }
   ],
   "updated": "2016-05-01"

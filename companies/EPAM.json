@@ -29,83 +29,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "Associate Project Manager",
-      "alternateName": "Project Manager",
-      "url": "https://www.epam.com/careers/job-listings/job.13658",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-30"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "intern",
-      "title": "Copywriter Intern",
-      "alternateName": "Intern",
-      "url": "https://www.epam.com/careers/job-listings/job.11597#apply",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Creative Director",
-      "alternateName": "Developer, Frontend",
-      "url": "https://www.epam.com/careers/job-listings/job.11105#apply",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Digital Engagement Presales Project Manager",
-      "alternateName": "Project Manager",
-      "url": "https://www.epam.com/careers/job-listings/job.11336#apply",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Email Marketing Manager",
-      "alternateName": "Marketing",
-      "url": "https://www.epam.com/careers/job-listings/job.14767",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-04-30"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Recruiter (Healthcare/Pharmacy)",
-      "alternateName": "HR",
-      "url": "https://www.epam.com/careers/job-listings/job.11620#apply",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "Senior UX Designer",
-      "alternateName": "Designer, User Experience",
-      "url": "https://www.epam.com/careers/job-listings/job.10797#apply",
-      "jobLocation": "conshohocken",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Adobe Solution Architect",
       "alternateName": "Developer, Full Stack",
       "url": "https://www.epam.com/careers/job-listings/job.8753#apply",
@@ -138,46 +61,74 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Director of Project Management",
-      "alternateName": "Project Manager",
-      "url": "https://www.epam.com/careers/job-listings/job.13659",
-      "jobLocation": "philadelphia",
+      "jobLocation": "Newtown, PA, USA",
       "remote": false,
-      "datePosted": "2016-04-30"
+      "title": "Director of North American Strategic Partners",
+      "url": "https://www.epam.com/careers/job-listings/job.16227#apply"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Enterprise Solution Architect",
-      "alternateName": "Developer, Backend",
-      "url": "https://www.epam.com/careers/job-listings/job.11119#apply",
-      "jobLocation": "philadelphia",
+      "jobLocation": "Philadelphia, PA, USA",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Hybris Solution Architect",
+      "url": "https://www.epam.com/careers/job-listings/job.16171#apply"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Front-end Developer",
-      "alternateName": "Developer, Frontend",
-      "url": "https://www.epam.com/careers/job-listings/job.11592#apply",
-      "jobLocation": "philadelphia",
+      "jobLocation": "Newtown, PA, USA",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Payroll, Benefits and HR Operations Manager",
+      "url": "https://www.epam.com/careers/job-listings/job.16228#apply"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
-      "employmentType": "contract",
-      "title": "Rally Administrator",
-      "alternateName": "Project Manager",
-      "url": "https://www.epam.com/careers/job-listings/job.11391#apply",
-      "jobLocation": "philadelphia",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "Philadelphia, PA, USA",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Senior Account Manager",
+      "url": "https://www.epam.com/careers/job-listings/job.16087#apply"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "Newtown, PA, USA",
+      "remote": false,
+      "title": "Senior Software Engineer",
+      "url": "https://www.epam.com/careers/job-listings/job.15937#apply"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "Newtown, PA, USA",
+      "remote": false,
+      "title": "IT Technical Support Specialist",
+      "url": "https://www.epam.com/careers/job-listings/job.16507#apply"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "Philadelphia, PA, USA",
+      "remote": false,
+      "title": "Technical Project Manager",
+      "url": "https://www.epam.com/careers/job-listings/job.16480#apply"
     }
   ],
   "updated": "2016-04-30"

@@ -21,13 +21,12 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Development Director, Mobile",
-      "alternateName": "",
-      "url": "https://thoughtbot.com/jobs",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": ""
+      "title": "Director of Mobile Development",
+      "url": "https://thoughtbot.com/jobs/mobile-director"
     }
   ]
 }

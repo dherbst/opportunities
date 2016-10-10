@@ -78,13 +78,52 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Linux Solutions Consultant",
-      "alternateName": "IT, Networking",
-      "url": "https://www.linode.com/careers",
       "jobLocation": "haddonfield",
       "remote": false,
-      "datePosted": "2016-04-30"
+      "title": "Front-End Engineer",
+      "url": "https://www.linode.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "haddonfield",
+      "remote": false,
+      "title": "Manager, Software Engineering",
+      "url": "https://www.linode.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "haddonfield",
+      "remote": false,
+      "title": "UI/UX Designer",
+      "url": "https://www.linode.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "haddonfield",
+      "remote": false,
+      "title": "Manager, System Engineering",
+      "url": "https://www.linode.com/careers"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "haddonfield",
+      "remote": false,
+      "title": "Account Executive",
+      "url": "https://www.linode.com/careers"
     }
   ],
   "updated": "2016-04-30"

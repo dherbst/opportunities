@@ -24,28 +24,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "SHAREPOINT ARCHITECTS",
-      "alternateName": "Developer, Backend",
-      "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
-      "jobLocation": "lansdale",
-      "remote": false,
-      "datePosted": "2016-04-25"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
-      "title": "SHAREPOINT DEVELOPERS",
-      "alternateName": "Developer, Backend",
-      "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
-      "jobLocation": "lansdale",
-      "remote": false,
-      "datePosted": "2016-04-25"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "PROJECT MANAGER",
       "alternateName": "Project Manager",
       "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",

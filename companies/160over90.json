@@ -26,46 +26,56 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Creative Director",
-      "alternateName": "Designer, Visual",
-      "url": "http://160over90.com/careers/?job_id=1067",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Interactive Project Manager",
+      "url": "http://160over90.com/careers?job_id=1146"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
       "employmentType": "full-time",
-      "title": "Director of Public Relations",
-      "alternateName": "Marketing",
-      "url": "http://160over90.com/careers/?job_id=1077",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-05-01"
+      "title": "Web Developer",
+      "url": "http://160over90.com/careers?job_id=1138"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
-      "title": "Drupal Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://160over90.com/careers/?job_id=1063",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Interactive Designer",
+      "url": "http://160over90.com/careers?job_id=1162"
     },
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
       "employmentType": "full-time",
-      "title": "Digital Media Manager",
-      "alternateName": "Marketing",
-      "url": "http://160over90.com/careers/?job_id=1092",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-06-17"
+      "title": "New Business Production Artist",
+      "url": "http://160over90.com/careers?job_id=1159"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Project Manager",
+      "url": "http://160over90.com/careers?job_id=1147"
     }
   ],
   "updated": "2016-06-17"

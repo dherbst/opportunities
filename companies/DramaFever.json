@@ -20,14 +20,23 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "iOS Developer",
-      "alternateName": "Developer, Mobile",
-      "url": "https://careers.jobscore.com/careers/dramafever/jobs/ios-developer-cGpIcCuxCr5B2AdG1ZS6tF?ref=rss&sid=68",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-03-13"
+      "title": "Android Developer",
+      "url": "https://www.jobscore.com/careers/dramafever/jobs/android-developer-b0E4IKcUSr5OxVdG1ZS6tF?ref=rss&sid=68"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Platform Operations Engineer",
+      "url": "https://www.jobscore.com/careers/dramafever/jobs/platform-operations-engineer-ciqtOurtGr5PCVdG1ZS6tF?ref=rss&sid=68"
     }
   ],
-  "updated": "2016-04-30"
+  "updated": "2016-08-15"
 }

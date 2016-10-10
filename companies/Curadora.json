@@ -35,15 +35,33 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Software Developer",
-      "alternateName": "Developer, Full Stack",
-      "url": "https://curadora.workable.com/",
+      "jobLocation": "philadelphia",
+      "remote": true,
+      "title": "Senior Software Developer - Elixir, React, Rails",
+      "url": "https://curadora.workable.com/jobs/308843"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": true,
+      "title": "Web Developer - React, Rails, APIs",
+      "url": "https://curadora.workable.com/jobs/248814"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-14",
+      "employmentType": "full-time",
       "jobLocation": "philadelphia",
       "remote": false,
-      "datePosted": "2016-07-28",
-      "responsibilities": "You’ll have the opportunity to contribute from design, to code, to test, to deployment. That includes working collaboratively with like-minded teammates to plan development cycles, break down feature requests into a series of tasks, and remove blocks. You’ll be integrating with multiple third parties to build a robust and scalable web application for consumers. You’ll play a critical role in the direction of our product by prioritizing needs, analyzing usage data and researching new technologies. You’ll need to face complex problems and turn them into sophisticated solutions.",
-      "skills": "Elixir, Phoenix, Ruby, Rails, React/Redux, HTML5, CSS3, JavaScript, Git, Docker"
+      "title": "Sales Associate - Event Producer Partnerships",
+      "url": "https://curadora.workable.com/jobs/251784"
     }
   ]
 }

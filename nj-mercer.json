@@ -46,24 +46,52 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-26",
         "employmentType": "full-time",
-        "title": "Release/DevOps Engineer",
-        "alternateName": "DevOps",
-        "url": "https://integrichain-orspartners.icims.com/jobs/2548/release-devops-engineer/job",
-        "jobLocation": "philadelphia",
+        "jobLocation": "philadephia",
         "remote": false,
-        "datePosted": "2016-03-13"
+        "title": "Inventory Retail Production Analyst",
+        "url": "https://integrichain-orspartners.icims.com/jobs/3269/inventory-retail-production-analyst/job?in_iframe=1"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
+        "datePosted": "2016-07-26",
         "employmentType": "full-time",
-        "title": "Data Analyst",
-        "alternateName": "Data Analyst",
-        "url": "https://integrichain-orspartners.icims.com/jobs/1795/data-analyst/job",
-        "jobLocation": "philadelphia",
+        "jobLocation": "philadephia",
         "remote": false,
-        "datePosted": "2016-03-13"
+        "title": "Software Engineer in Test",
+        "url": "https://integrichain-orspartners.icims.com/jobs/2980/software-engineer-in-test/job?in_iframe=1"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-26",
+        "employmentType": "full-time",
+        "jobLocation": "philadephia",
+        "remote": false,
+        "title": "EDI Analyst",
+        "url": "https://integrichain-orspartners.icims.com/jobs/2911/edi-analyst/job?in_iframe=1"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-26",
+        "employmentType": "full-time",
+        "jobLocation": "philadephia",
+        "remote": false,
+        "title": "Product Marketing Manager",
+        "url": "https://integrichain-orspartners.icims.com/jobs/2811/product-marketing-manager/job?in_iframe=1"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "JobPosting",
+        "datePosted": "2016-07-26",
+        "employmentType": "full-time",
+        "jobLocation": "philadephia",
+        "remote": false,
+        "title": "Data Analyst, Master Data Management",
+        "url": "https://integrichain-orspartners.icims.com/jobs/2808/data-analyst%2c-master-data-management/job?in_iframe=1"
       }
     ],
     "updated": "2016-04-30"

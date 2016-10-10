@@ -87,17 +87,6 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "employmentType": "full-time",
-      "title": "R&amp;D Engineer",
-      "alternateName": "Developer, Full Stack",
-      "url": "http://www.dronecast.com/careers/",
-      "jobLocation": "philadelphia",
-      "remote": false,
-      "datePosted": "2016-03-13"
-    },
-    {
-      "@context": "http://schema.org",
-      "@type": "JobPosting",
-      "employmentType": "full-time",
       "title": "Copy Writer",
       "alternateName": "Content Strategist",
       "url": "http://www.dronecast.com/careers/",
@@ -115,6 +104,16 @@
       "jobLocation": "philadelphia",
       "remote": false,
       "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "R&D Engineer",
+      "url": "http://www.dronecast.com/careers/"
     }
   ],
   "updated": "2016-04-30"

@@ -45,13 +45,22 @@
     {
       "@context": "http://schema.org",
       "@type": "JobPosting",
+      "datePosted": "2016-07-26",
       "employmentType": "full-time",
-      "title": "Marketing Coordinator",
-      "alternateName": "Marketing",
-      "url": "https://review.wizehive.com/voting/view/posting/13854/1177957/0",
       "jobLocation": "conshohocken",
       "remote": false,
-      "datePosted": "2016-04-21"
+      "title": "Jr. Implementation Specialist",
+      "url": "https://review.wizehive.com/voting/view/posting/13854/1783768/0"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "conshohocken",
+      "remote": false,
+      "title": "Marketing Technologist",
+      "url": "https://review.wizehive.com/voting/view/posting/13854/1177957/0"
     }
   ],
   "updated": "2016-04-21"
