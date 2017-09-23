@@ -1955,22 +1955,22 @@
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-26",
+        "datePosted": "2017-09-23",
         "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
-        "title": "Android Developer",
-        "url": "https://www.jobscore.com/careers/dramafever/jobs/android-developer-b0E4IKcUSr5OxVdG1ZS6tF?ref=rss&sid=68"
+        "title": "Senior Android Developer",
+        "url": "https://hire.withgoogle.com/public/jobs/dramafever/view/P_AAAAAACAAADA1TDEcdDlnD"
       },
       {
         "@context": "http://schema.org",
         "@type": "JobPosting",
-        "datePosted": "2016-07-26",
+        "datePosted": "2017-09-23",
         "employmentType": "full-time",
         "jobLocation": "philadelphia",
         "remote": false,
-        "title": "Platform Operations Engineer",
-        "url": "https://www.jobscore.com/careers/dramafever/jobs/platform-operations-engineer-ciqtOurtGr5PCVdG1ZS6tF?ref=rss&sid=68"
+        "title": "Wuality Assurance Engineer",
+        "url": "https://hire.withgoogle.com/public/jobs/dramafever/view/P_AAAAAACAAADEKQ-PJXCdT_"
       }
     ],
     "updated": "2016-08-15"
