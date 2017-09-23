@@ -1,0 +1,108 @@
+{
+  "company": "Clinical Ink",
+  "type": [
+    "product"
+  ],
+  "url": "http://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a78826752b0003a0152d305414414ee",
+  "webSiteUrl": "http://www.clinicalink.com/",
+  "technologies": [],
+  "locations": {
+    "horsham": {
+      "@type": "Place",
+      "address": "110 Gibraltar Road, Suite 150, Horsham, PA 19044",
+      "geo": {
+        "latitude": 40.171473,
+        "longitude": -75.130956
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "horsham",
+      "remote": false,
+      "title": "Clinical Data Monitor",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78844955712e02015582febced4731&source="
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "horsham",
+      "remote": false,
+      "title": "Clinical Design Manager",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7886f8568c87e101569894e87d48f4&source="
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "horsham",
+      "remote": false,
+      "title": "Project Data Manager",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7880ec56fdfc7701571eff68ce4ccd&source="
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "horsham",
+      "remote": false,
+      "title": "Project Management Assistant",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7880ec56fdfc77015710265c8b3f04&source="
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "horsham",
+      "remote": false,
+      "title": "Project Manager",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a78844956fdfc7401570c7c1704651d&source="
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "horsham",
+      "remote": false,
+      "title": "Clinical Coding Specialist",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7880ec56fdfc770157214fea84290d&source="
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "horsham",
+      "remote": false,
+      "title": "Study Programmer",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7886f85721ddb201572f54e53727b1&source="
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "horsham",
+      "remote": false,
+      "title": "Sr. Infrastructure and Security Architect",
+      "url": "http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a78826752b0003a0152d305414414ee&id=8a7880ec56fdfc770157102fd285443c&source="
+    }
+  ],
+  "updated": "2016-05-01"
+}

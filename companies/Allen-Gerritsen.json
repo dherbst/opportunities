@@ -1,14 +1,42 @@
 {
   "company": "Allen & Gerritsen",
+  "type": [
+    "agency"
+  ],
   "url": "http://www.a-g.com/careers/",
-  "address": "619 Walnut St, Philadelphia, PA 19128",
-  "geo": {
-    "latitude": 39.9461686667,
-    "longitude": -75.15197
+  "webSiteUrl": "http://www.a-g.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1619 Walnut St., Philadelphia, PA 19103",
+      "geo": {
+        "latitude": 39.9499277431,
+        "longitude": -75.1677158144
+      }
+    }
   },
   "positions": [
     {
-      "title": "Analytics Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Office Coordinator",
+      "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160817011624_Q2JFX6JPQC6ZRXRJ"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Supervisor, Public Relations",
+      "url": "http://www.a-g.com/Careers/Position-Details?id=job_20160815204054_WCLVAOFFE7P6BQ99"
     }
-  ]
+  ],
+  "updated": "2016-08-15"
 }

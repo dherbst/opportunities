@@ -1,0 +1,69 @@
+{
+  "company": "Archer Group",
+  "type": [
+    "agency"
+  ],
+  "url": "http://www.archer-group.com/careers.html",
+  "webSiteUrl": "http://www.archer-group.com/",
+  "technologies": [
+    ".NET",
+    "Sitecore"
+  ],
+  "locations": {
+    "wilmington": {
+      "@type": "Place",
+      "address": "233 N King St, Wilmington, DE 19801",
+      "geo": {
+        "latitude": 39.739341,
+        "longitude": -75.551174
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "ACCOUNT EXECUTIVE",
+      "alternateName": "Business Development",
+      "url": "http://www.archer-group.com/careers.html",
+      "jobLocation": "wilmington",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "MID-LEVEL UX DESIGNER",
+      "alternateName": "Designer, User Experience",
+      "url": "http://www.archer-group.com/careers.html",
+      "jobLocation": "wilmington",
+      "remote": false,
+      "datePosted": "2016-03-13"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "wilmington",
+      "remote": false,
+      "title": "SENIOR INTERACTIVE DESIGNER",
+      "url": "https://archergroup.bamboohr.com/jobs/view.php?id=39"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "wilmington",
+      "remote": false,
+      "title": "INTERACTIVE ART DIRECTOR",
+      "url": "https://archergroup.bamboohr.com/jobs/view.php?id=40"
+    }
+  ],
+  "updated": "2016-08-15"
+}

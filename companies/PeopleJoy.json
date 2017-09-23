@@ -1,0 +1,33 @@
+{
+  "company": "PeopleJoy",
+  "type": [
+    "startup"
+  ],
+  "url": "https://angel.co/peoplejoy/jobs",
+  "webSiteUrl": "http://peoplejoy.co/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": true,
+      "title": "Software Engineer",
+      "url": "https://angel.co/peoplejoy/jobs/128920-software-engineer"
+    }
+  ]
+}

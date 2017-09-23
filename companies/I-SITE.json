@@ -1,17 +1,24 @@
 {
   "company": "I-SITE",
-  "url": "http://www.i-site.com/blog",
-  "address": "15 South 3rd St Suite 200, Philadelphia, PA, 19106",
-  "geo": {
-    "latitude": 39.9496157,
-    "longitude": -75.1476798
-  },
-  "positions": [
-    {
-      "title": "Digital Project Manager"
-    },
-    {
-      "title": "Web Development Intern"
+  "type": [
+    "agency"
+  ],
+  "url": "http://www.i-site.com/category/jobs/",
+  "webSiteUrl": "http://www.i-site.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "15 South 3rd St Suite 200, Philadelphia, PA, 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.9496157,
+        "longitude": -75.1476798
+      }
     }
-  ]
+  },
+  "positions": [],
+  "updated": "2016-04-30"
 }

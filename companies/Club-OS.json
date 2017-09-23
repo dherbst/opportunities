@@ -1,20 +1,66 @@
 {
   "company": "Club OS",
+  "type": [
+    "Startup",
+    "Product"
+  ],
   "url": "https://angel.co/club-os/jobs",
-  "address": "1650 Arch St, #1906, Philadelphia, PA 19103",
-  "geo": {
-    "latitude": 39.9549139592,
-    "longitude": -75.1671930612
+  "webSiteUrl": "https://www.club-os.com/",
+  "technologies": [
+    "Java"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1650 Arch St, #1906, Philadelphia, PA 19103",
+      "geo": {
+        "latitude": 39.9549139592,
+        "longitude": -75.1671930612
+      }
+    }
   },
   "positions": [
     {
-      "title": "Senior Java Sofware Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Junior Software Engineer",
+      "url": "https://angel.co/club-os/jobs/30410-junior-software-engineer"
     },
     {
-      "title": "Front End Web Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Lead Software Engineer",
+      "url": "https://angel.co/club-os/jobs/62638-lead-software-engineer"
     },
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Front-end Application Engineer",
+      "url": "https://angel.co/club-os/jobs/82642-front-end-application-engineer"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Director of Product",
+      "url": "https://angel.co/club-os/jobs/82891-director-of-product"
     }
-  ]
+  ],
+  "updated": "2016-08-15"
 }

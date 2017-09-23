@@ -1,23 +1,55 @@
 {
   "company": "Bluecadet",
-  "url": "http://www.bluecadet.com/contact/careers/",
-  "address": "1011 N Hancock st, Philadelphia PA 19123",
-  "geo": {
-    "latitude": 39.965753,
-    "longitude": -75.1392843333
+  "type": [
+    "agency"
+  ],
+  "url": "http://bluecadet.com/contact/careers/",
+  "webSiteUrl": "http://bluecadet.com/",
+  "technologies": [
+    "Drupal"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "1526 Frankford Ave, Philadelphia, PA 19125",
+      "geo": {
+        "latitude": 39.9735053244,
+        "longitude": -75.1338803439
+      }
+    }
   },
   "positions": [
     {
-      "title": "iOS Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Communications Manager & Writer",
+      "alternateName": "Content Strategy",
+      "url": "http://www.bluecadet.com/careers/communications-manager-writer/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-13"
     },
     {
-      "title": "Creative Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Drupal Developer – PHL",
+      "url": "http://www.bluecadet.com/careers/drupal-developer/"
     },
     {
-      "title": "Designer"
-    },
-    {
-      "title": "Senior Interactive Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Creative Director – PHL",
+      "url": "http://www.bluecadet.com/careers/creative-director/"
     }
-  ]
+  ],
+  "updated": "2016-05-01"
 }

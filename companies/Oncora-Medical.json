@@ -1,0 +1,70 @@
+{
+  "company": "Oncora Medical",
+  "type": [
+    "product",
+    "startup"
+  ],
+  "url": "http://oncoramedical.com/careers",
+  "webSiteUrl": "http://oncoramedical.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "4040 Locust St, Philadelphia, PA 19104",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952883,
+        "longitude": -75.204789
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Data Engineer",
+      "url": "https://oncoramedical.com/careers/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Cloud Ops Engineer",
+      "url": "https://oncoramedical.com/careers/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Data Scientist",
+      "url": "https://oncoramedical.com/careers/"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Visualization Developer",
+      "url": "https://oncoramedical.com/careers/"
+    }
+  ],
+  "updated": "2016-04-29"
+}

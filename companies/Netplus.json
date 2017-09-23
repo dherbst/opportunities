@@ -1,20 +1,57 @@
 {
   "company": "Netplus",
+  "type": [
+    "agency"
+  ],
   "url": "http://thinknetplus.com/contact/#netplus-jobs",
-  "address": "718 Arch St Suite #400S",
-  "geo": {
-    "latitude": 39.9529856531,
-    "longitude": -75.1518336122
+  "webSiteUrl": "http://thinknetplus.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "718 Arch Street, Suite 400S, Philadelphia, PA 19106",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 39.952624,
+        "longitude": -75.152505
+      }
+    }
   },
   "positions": [
     {
-      "title": "Web Developer Full-Stack"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Interactive Designer",
+      "alternateName": "Developer, Frontend",
+      "url": "http://thinknetplus.com/contact/interactive-designer-2/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2015-12-18"
     },
     {
-      "title": "Interactive Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "employmentType": "full-time",
+      "title": "Art Director",
+      "alternateName": "Developer, Frontend",
+      "url": "http://thinknetplus.com/contact/art-director/",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "datePosted": "2016-03-22"
     },
     {
-      "title": "Digital Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "intern",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Internships at Netplus",
+      "url": "http://thinknetplus.com/contact/#netplus-jobs"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

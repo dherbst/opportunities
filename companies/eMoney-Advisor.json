@@ -1,41 +1,132 @@
 {
   "company": "eMoney Advisor",
+  "type": [
+    "internal"
+  ],
   "url": "http://emoneyadvisor.theresumator.com/apply",
-  "address": "1001 E Hector St, Conshohocken, PA 19428",
-  "geo": {
-    "latitude": 40.07517,
-    "longitude": -75.289722
+  "webSiteUrl": "http://emoneyadvisor.com/",
+  "technologies": [],
+  "locations": {
+    "radnor": {
+      "@type": "Place",
+      "address": "Four Radnor Corporate Center, 100 Matsonford Rd., Suite 300, Radnor, PA 19087",
+      "geo": {
+        "latitude": 40.0489973,
+        "longitude": -75.3599822
+      }
+    }
   },
   "positions": [
     {
-      "title": "Data Services Support Specialist"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "Scrum Master",
+      "url": "http://emoneyadvisor.theresumator.com/apply/W0WaYf/Scrum-Master"
     },
     {
-      "title": "Salesforce Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "Client Support Specialist",
+      "url": "http://emoneyadvisor.theresumator.com/apply/Ba3cas/Client-Support-Specialist"
     },
     {
-      "title": "Senior Systems Administrator"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "UI/UX Designer",
+      "url": "http://emoneyadvisor.theresumator.com/apply/tr8W0G/UIUX-Designer"
     },
     {
-      "title": "Senior Systems Automation Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "Sr. Market Research Analyst",
+      "url": "http://emoneyadvisor.theresumator.com/apply/PinPek/Sr-Market-Research-Analyst"
     },
     {
-      "title": "Software Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "Program Manager",
+      "url": "http://emoneyadvisor.theresumator.com/apply/BEj5bE/Program-Manager"
     },
     {
-      "title": "Software Engineer-Data Services"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "Director of Content",
+      "url": "http://emoneyadvisor.theresumator.com/apply/2y3tZB/Director-Of-Content"
     },
     {
-      "title": "Sr. Windows Systems Administrator"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "Product Marketing Manager",
+      "url": "http://emoneyadvisor.theresumator.com/apply/mlOvgc/Product-Marketing-Manager"
     },
     {
-      "title": "Technical Support Engineer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "Product Manager - New Products",
+      "url": "http://emoneyadvisor.theresumator.com/apply/6NxZvZ/Product-Manager-New-Products"
     },
     {
-      "title": "UX/UI Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "QA Analyst",
+      "url": "http://emoneyadvisor.theresumator.com/apply/3fYsWx/QA-Analyst"
     },
     {
-      "title": "Web Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "radnor",
+      "remote": false,
+      "title": "SR Quality Assurance Automation Engineer",
+      "url": "http://emoneyadvisor.theresumator.com/apply/D6d1Ny/SR-Quality-Assurance-Automation-Engineer"
     }
-  ]
+  ],
+  "updated": "2016-08-15"
 }

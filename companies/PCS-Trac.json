@@ -1,10 +1,47 @@
 {
   "company": "PCS Trac",
+  "type": [
+    "product"
+  ],
   "url": "http://www.pcstrac.com/#!careers/cuev",
-  "address": "4250 Wissahickon Ave, Philadelphia, PA 19129",
-  "geo": {
-    "latitude": 40.0149365556,
-    "longitude": -75.1698068384
+  "webSiteUrl": "http://www.pcstrac.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "4250 Wissahickon Ave, Philadelphia, PA 19129",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0149365556,
+        "longitude": -75.1698068384
+      }
+    }
   },
-  "positions": []
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Sales Consultant",
+      "url": "http://www.pcstrac.com/#!careers/cuev"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Product Support Manager",
+      "url": "http://www.pcstrac.com/#!careers/cuev"
+    }
+  ],
+  "updated": "2016-04-29"
 }

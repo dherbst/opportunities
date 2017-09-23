@@ -1,29 +1,92 @@
 {
   "company": "O3 World",
+  "type": [
+    "consultancy"
+  ],
   "url": "http://o3world.com/careers/",
-  "address": "1000 N. Hancock St. Suite 103 Philadelphia PA, 19123",
-  "geo": {
-    "latitude": 39.9652262979,
-    "longitude": -75.1398402553
+  "webSiteUrl": "http://o3world.com/",
+  "technologies": [
+    "Linux",
+    "Mac OS X",
+    "AWS",
+    "DigitalOcean",
+    "Heroku",
+    "Selenium",
+    "Jenkins",
+    "HTML / CSS / JS",
+    "DNS",
+    "VoIP",
+    "SonicWall FireWall",
+    "NodeJS",
+    "PHP",
+    "Git",
+    "New Relic",
+    "Pingdom",
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Wordpress",
+    "Drupal",
+    "ExpressionEngine",
+    "Magento",
+    "Shopify",
+    "Adobe Photoshop",
+    "Express",
+    "Sails.js",
+    "AngularJS",
+    "MongoDB",
+    "PostreSQL",
+    "Redis",
+    "Gulp",
+    "Grunt"
+  ],
+  "locations": {
+    "philadelphia": {
+      "address": "1339 Frankford Avenue, Suite 3, Philadelphia, PA 19125",
+      "geo": {
+        "latitude": 39.9712247406,
+        "longitude": -75.1342654346
+      }
+    }
   },
   "positions": [
     {
-      "title": "PROJECT MANAGER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "UI / UX DESIGNER"
     },
     {
-      "title": "LEAD UI / UX DESIGNER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "FULL STACK DEVELOPER"
     },
     {
-      "title": "IOS DEVELOPER"
-    },
-    {
-      "title": "FULL STACK JAVASCRIPT DEVELOPER"
-    },
-    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
       "title": "FRONT-END DEVELOPER"
     },
     {
-      "title": "WEB PROGRAMMER"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "UX STRATEGIST"
     }
-  ]
+  ],
+  "updated": "2016-04-29"
 }

@@ -1,14 +1,36 @@
 {
   "company": "Pedrera Philadelphia Web Development",
+  "type": [
+    "consultancy"
+  ],
   "url": "http://pedrera.com/about-us/careers",
-  "address": "100 Mechanics Street, Doylestown, PA 18901",
-  "geo": {
-    "latitude": 40.3136617818,
-    "longitude": -75.1289168909
+  "webSiteUrl": "http://pedrera.com/",
+  "technologies": [],
+  "locations": {
+    "doylestown": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "100 Mechanics Street, Doylestown, PA 18901",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.3136617818,
+        "longitude": -75.1289168909
+      }
+    }
   },
   "positions": [
     {
-      "title": "Web Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-15",
+      "employmentType": "full-time",
+      "jobLocation": "doylestown",
+      "remote": false,
+      "title": "Web Developer",
+      "url": "http://pedrera.com/about-us/careers/web-developer"
     }
-  ]
+  ],
+  "updated": "2016-04-29"
 }

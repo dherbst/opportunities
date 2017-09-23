@@ -1,35 +1,37 @@
 {
   "company": "50onRed",
-  "url": "http://50onred.theresumator.com/?utm_source=github",
-  "address": "2929 Arch St, Philadelphia, PA 19104",
-  "geo": {
-    "latitude": 39.956848137931,
-    "longitude": -75.18091562069
+  "type": [
+    "product"
+  ],
+  "url": "http://50onred.com/careers/",
+  "webSiteUrl": "http://50onred.com/",
+  "technologies": [
+    "Python",
+    "Java",
+    "AWS"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "2929 Arch St, Philadelphia, PA 19104",
+      "geo": {
+        "latitude": 39.956848137931,
+        "longitude": -75.18091562069
+      }
+    }
   },
   "positions": [
     {
-      "title": "Data Scientist"
-    },
-    {
-      "title": "DevOps Systems Engineer"
-    },
-    {
-      "title": "Senior Software Engineer"
-    },
-    {
-      "title": "Marketing and Communications Director"
-    },
-    {
-      "title": "Head of Product Development"
-    },
-    {
-      "title": "UX Designer"
-    },
-    {
-      "title": "Sales Executive"
-    },
-    {
-      "title": "VP of Sales"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Senior Software Engineer",
+      "url": "http://50onred.theresumator.com/apply/job_20160310221700_EOG5NK2XREPLY24A"
     }
-  ]
+  ],
+  "updated": "2016-06-17"
 }

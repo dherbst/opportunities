@@ -1,0 +1,35 @@
+{
+  "company": "Zodiac",
+  "type": [
+    "consultancy"
+  ],
+  "url": "http://jobs.lever.co/zodiacmetrics",
+  "webSiteUrl": "http://www.zodiacmetrics.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "2001 Locust St, Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": "39.954163",
+        "longitude": "-75.173731"
+      }
+    }
+  },
+  "positions": [
+    {
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Frontend Engineer"
+    }
+  ],
+  "updated": "2016-04-21"
+}

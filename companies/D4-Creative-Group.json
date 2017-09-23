@@ -1,26 +1,56 @@
 {
   "company": "D4 Creative Group",
+  "type": [
+    "agency"
+  ],
   "url": "http://www.d4creative.com/careers",
-  "address": "4646 Umbria Street",
-  "geo": {
-    "latitude": 40.0305332308,
-    "longitude": -75.2300390769
+  "webSiteUrl": "http://www.d4creative.com/",
+  "technologies": [
+    "php"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "4646 Umbria Street, Philadelphia, PA 19127",
+      "geo": {
+        "latitude": 40.0305332308,
+        "longitude": -75.2300390769
+      }
+    }
   },
   "positions": [
     {
-      "title": "Copywriter"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Account Director",
+      "url": "http://www.d4creative.com/careers"
     },
     {
-      "title": "Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Art Director/Senior Designer",
+      "url": "http://www.d4creative.com/careers"
     },
     {
-      "title": "Front-End Developer"
-    },
-    {
-      "title": "Project Manager"
-    },
-    {
-      "title": "PHP Developer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Director of SEO",
+      "url": "http://www.d4creative.com/careers"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

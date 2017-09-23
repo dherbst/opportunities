@@ -1,29 +1,82 @@
 {
   "company": "160over90",
-  "url": "http://www.160over90.com/careers/",
-  "address": "1 S. Broad St., 10th Floor, Philadelphia, PA 19107",
-  "geo": {
-    "latitude": 39.951591,
-    "longitude": -75.163514
+  "type": [
+    "agency"
+  ],
+  "url": "http://160over90.com/careers/",
+  "webSiteUrl": "http://www.160over90.com/",
+  "technologies": [
+    "php",
+    "MySQL",
+    "Drupal",
+    "JQuery"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "510 Walnut St, 19th Floor, Philadelphia, PA 19106",
+      "geo": {
+        "latitude": 39.947276,
+        "longitude": -75.149745
+      },
+      "telephone": "215-732-3200"
+    }
   },
   "positions": [
     {
-      "title": "Account Supervisor"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Interactive Project Manager",
+      "url": "http://160over90.com/careers?job_id=1146"
     },
     {
-      "title": "Account Director"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-12",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Web Developer",
+      "url": "http://160over90.com/careers?job_id=1138"
     },
     {
-      "title": "Senior Copywriter"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Interactive Designer",
+      "url": "http://160over90.com/careers?job_id=1162"
     },
     {
-      "title": "Senior Designer"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "New Business Production Artist",
+      "url": "http://160over90.com/careers?job_id=1159"
     },
     {
-      "title": "Motion Graphics Designer"
-    },
-    {
-      "title": "Video Editor"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Project Manager",
+      "url": "http://160over90.com/careers?job_id=1147"
     }
-  ]
+  ],
+  "updated": "2016-06-17"
 }

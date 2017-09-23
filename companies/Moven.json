@@ -1,0 +1,24 @@
+{
+  "company": "Moven",
+  "type": [
+    "Startup",
+    "product"
+  ],
+  "url": "https://www.moven.com/about/index.html",
+  "webSiteUrl": "https://www.moven.com/",
+  "technologies": [],
+  "locations": {
+    "philadelphia": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "Philadelphia, PA",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.07231,
+        "longitude": -75.203371
+      }
+    }
+  },
+  "positions": []
+}

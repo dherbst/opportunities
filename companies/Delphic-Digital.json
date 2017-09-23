@@ -1,29 +1,45 @@
 {
   "company": "Delphic Digital",
+  "type": [
+    "agency"
+  ],
   "url": "http://www.delphicdigital.com/about/careers/open-positions",
-  "address": "116 Shurs Lane, 2nd Floor, Philadelphia, PA 19127",
-  "geo": {
-    "latitude": 40.022712,
-    "longitude": -75.217571
+  "webSiteUrl": "http://www.delphicdigital.com/",
+  "technologies": [
+    ".net",
+    "Sitecore"
+  ],
+  "locations": {
+    "philadelphia": {
+      "@type": "Place",
+      "address": "116 Shurs Lane, 2nd Floor, Philadelphia, PA 19127",
+      "geo": {
+        "latitude": 40.022712,
+        "longitude": -75.217571
+      }
+    }
   },
   "positions": [
     {
-      "title": "Technical Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-26",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Associate Digital Media Buyer",
+      "url": "https://boards.greenhouse.io/delphicdigital/jobs/249584"
     },
     {
-      "title": "Quality Assurance (QA) & Digital Production Manager"
-    },
-    {
-      "title": "Senior Solution Architect"
-    },
-    {
-      "title": "Sitecore Web Developer"
-    },
-    {
-      "title": "Technical Lead - Web Development"
-    },
-    {
-      "title": "Web Developer / Software Engineer (.NET)"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "datePosted": "2016-07-31",
+      "employmentType": "full-time",
+      "jobLocation": "philadelphia",
+      "remote": false,
+      "title": "Join the Delphic Talent Pool",
+      "url": "https://boards.greenhouse.io/delphicdigital/jobs/170319"
     }
-  ]
+  ],
+  "updated": "2016-04-30"
 }

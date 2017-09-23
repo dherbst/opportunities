@@ -1,20 +1,47 @@
 {
   "company": "roundCorner",
+  "type": [
+    "product"
+  ],
   "url": "http://www.roundcorner.com/job-postings/",
-  "address": "16 E. Lancaster Ave, Ardmore, PA 19003",
-  "geo": {
-    "latitude": 40.0074736667,
-    "longitude": -75.2902143333
+  "webSiteUrl": "http://www.roundcorner.com/",
+  "technologies": [],
+  "locations": {
+    "ardmore": {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "address": "16 E. Lancaster Ave, Ardmore, PA 19003",
+      "geo": {
+        "@context": "http://schema.org",
+        "@type": "Place",
+        "latitude": 40.0074736667,
+        "longitude": -75.2902143333
+      }
+    }
   },
   "positions": [
     {
-      "title": "Data Architect"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "ardmore",
+      "remote": false,
+      "title": "Customer Success Manager/CRM Strategy Consultant (PA, NY or CA)",
+      "url": "http://roundcorner.com/careers/#collapseTwo"
     },
     {
-      "title": "Data Migration Specialist"
-    },
-    {
-      "title": "Senior Project Manager"
+      "@context": "http://schema.org",
+      "@type": "JobPosting",
+      "alternateName": null,
+      "datePosted": "2016-08-13",
+      "employmentType": "full-time",
+      "jobLocation": "ardmore",
+      "remote": false,
+      "title": "Data Architect (PA, NY or CA)",
+      "url": "http://roundcorner.com/careers/#collapseThree"
     }
-  ]
+  ],
+  "updated": "2016-04-28"
 }
